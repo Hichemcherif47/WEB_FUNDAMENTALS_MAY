@@ -4,6 +4,6 @@
 
 <br/>
 
-<img src="https://github.com/Alaa-1/git_assets/blob/main/kindpng_787343.png" alt="HTML,CSS and JS logo" width="180">
+<img src="https://github.com/Alaa-1/git_assets/blob/main/kindpng_787343.png" alt="HTML,CSS and JS logo" width="360">
 
 <br/>
