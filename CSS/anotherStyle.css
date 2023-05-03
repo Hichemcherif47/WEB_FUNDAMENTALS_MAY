@@ -1,0 +1,86 @@
+/* h1 {
+    color: red;
+
+} */
+
+/* #heading-1 {
+    color: rebeccapurple;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.red-text {
+    color: red;
+} */
+
+/* adjacent */
+/* h1+p {
+    color: red;
+} */
+
+/* p that are children of div */
+/* div p {
+    font-size: 32px;
+} */
+
+/* wild card // universal selector */
+/* * {
+    color: blue;
+} */
+
+#division-2 li {
+    color: red;
+    margin: 50px 5px;
+}
+
+li {
+    color: blue;
+}
+
+.red-text {
+    font-family: monospace;
+
+}
+
+#cursive-font {
+    font-family: cursive;
+
+}
+
+/* every element in HTML will have a box model:
+. Height x Width 
+. padding
+. border
+. margin
+*/
+
+h1 {
+    background-color: teal;
+    /* width: 50%; */
+    height: 45px;
+    border: 5px black dotted;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+h2 {
+    border: 5px orange solid;
+}
+
+div>h1 {
+    display: inline;
+
+}
